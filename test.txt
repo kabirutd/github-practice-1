@@ -1,7 +1,4 @@
 test dude
 adding new stuff to test merge and pull request
-<<<<<<< HEAD
 changes from local folder
-=======
 changes from github 
->>>>>>> 1c1ab65bd6efbc218d1118b10d0ccd673cc04f8b
